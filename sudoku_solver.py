@@ -3,8 +3,7 @@
 solving the sudoku using backtracking:
 -initially we check the empty spots in the sudoku board
 -checking the numbers 1 to 9 in the empty places
--if the number we inserted dis wrong then we backtrack and try another number
--backtracking goes on till the last place to be filled and solves the board    '''''
+  '''''
 
 
 # Sudoku Solver using Backtracking Algorithm
